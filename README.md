@@ -1,8 +1,8 @@
 SculptiveForm — Project Status
 
-Revision: SF-0004
-Reviewed UTC: 2026-11-16 05:17:59 UTC
-Stale after UTC: 2026-11-17 05:17:59 UTC
+Revision: SF-0005
+Reviewed UTC: 2026-11-17 00:30:54 UTC
+Stale after UTC: 2026-11-18 00:30:54 UTC
 
 Product qualification: completion unconfirmed
 Team responsibilities: established
